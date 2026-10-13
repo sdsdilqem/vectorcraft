@@ -17,6 +17,7 @@ accessibility = ["eframe/accesskit"]
 windows7 = ["eframe/glow"]
 
 [dependencies]
+craft-license = { workspace = true }
 vectorcraft-engine = { workspace = true }
 vectorcraft-ui-egui = { workspace = true }
 vectorcraft-text = { workspace = true }
